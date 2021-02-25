@@ -2,5 +2,6 @@ env
 .vscode
 __pycache__
 .ipynb_checkpoints
+.idea
 checkpoints
 output
